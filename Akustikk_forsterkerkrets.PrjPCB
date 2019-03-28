@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRCLYAWH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Akustikk_forsterkerkrets\Design Rule Check - Akustikk_forsterkerkrets.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
